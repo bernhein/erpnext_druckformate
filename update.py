@@ -6,7 +6,7 @@ from subprocess import run
 import typer
 from frappeclient import FrappeClient
 
-ERPNEXT_URL = "https://master.alyf.cloud"  # TODO: eigene URL eintragen
+ERPNEXT_URL = "https://next.intelli-momentum.com"  # TODO: eigene URL eintragen
 PRINT_STYLE_PATH = "print_style/print_style"
 PRINT_FORMATS = {
 	# 'Dateiname': 'Name des Print Format in ERPNext'
